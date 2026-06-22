@@ -1,0 +1,9 @@
+target
+.git
+.github
+.agents
+.codex
+.idea
+.vscode
+*.log
+README.md
